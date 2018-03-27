@@ -1,0 +1,17 @@
+{
+  "name": "ttb-node-notifyUI",
+  "version": "0.0.1",
+  "description": "This node allow to notify the NodeRED UI",
+  "node-red": {
+    "nodes": {
+      "notifyUI": "notifyUI.js"
+    }
+  },
+  "keywords": [
+    "notify",
+    "NodeRED",
+    "thethingbox"
+  ],
+  "author": "http://www.digitalairways.com/",
+  "license": "http://www.wtfpl.net"
+}

@@ -1,0 +1,18 @@
+{
+  "notifyUI": {
+    "label": {
+      "name": "Name",
+      "type": "Type",
+      "notification": "notification",
+      "fix": "Fixed",
+      "defaultTout": "default timeout",
+      "tout": "timeout"
+    },
+    "info": "blue",
+    "success": "green",
+    "error": "red",
+    "seconds": "seconds",
+    "minutes": "minutes",
+    "hours": "hours"
+  }
+}

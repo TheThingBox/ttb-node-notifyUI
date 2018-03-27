@@ -1,0 +1,18 @@
+{
+  "notifyUI": {
+    "label": {
+      "name": "Nom",
+      "type": "Type",
+      "notification": "notification",
+      "fix": "persistant",
+      "defaultTout": "durée par défaut",
+      "tout": "durée"
+    },
+    "info": "bleu",
+    "success": "vert",
+    "error": "rouge",
+    "seconds": "seconds",
+    "minutes": "minutes",
+    "hours": "heures"
+  }
+}
